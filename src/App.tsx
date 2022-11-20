@@ -1,9 +1,8 @@
 import { StatusBar } from 'expo-status-bar'
-import React, { useCallback } from 'react'
+import React from 'react'
 
 import { ThemeProvider } from "styled-components"
 
-import * as SplashScreen from "expo-splash-screen"
 import theme from './styles/theme'
 import { RootNavigator } from './navigation'
 import { useFonts } from 'expo-font'
