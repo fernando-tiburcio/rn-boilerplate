@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 
-export function Statitics() {
+export function Statistics() {
   return (
     <Container>
 
