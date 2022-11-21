@@ -1,1 +1,3 @@
-require ('./src/index.native')
+import Render from './App';
+
+export default Render;
